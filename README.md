@@ -50,7 +50,7 @@ Datafication.CsvConnector is a specialized connector library that bridges CSV fi
 > **Note**: Datafication.CsvConnector is currently in pre-release. The packages are now available on nuget.org.
 
 ```bash
-dotnet add package Datafication.CsvConnector --version 1.0.5
+dotnet add package Datafication.CsvConnector --version 1.0.6
 ```
 
 **Running the Samples:**
