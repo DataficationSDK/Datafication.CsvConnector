@@ -1,5 +1,7 @@
 # Datafication.CsvConnector
 
+[![NuGet](https://img.shields.io/nuget/v/Datafication.CsvConnector.svg)](https://www.nuget.org/packages/Datafication.CsvConnector)
+
 A high-performance CSV file connector for .NET that provides seamless integration between CSV data sources and the Datafication.Core DataBlock API.
 
 ## Description
